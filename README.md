@@ -1,0 +1,1 @@
+This repository shows an exploration of the Gaussian Process for predicting stock prices. The "Intra-Day" file is the main file. It contains code and visualtion of the Gaussian Process, modifying the mean and kernels.
